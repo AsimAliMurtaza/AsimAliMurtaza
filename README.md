@@ -23,6 +23,6 @@
 
 | 📈 Stats | 🔥 Streak | 🏆 Top Languages |
 |----------|----------|-----------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsimAliMurtaza&theme=white&hide_border=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AsimAliMurtaza&theme=white&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsimAliMurtaza&theme=white&hide_border=true&layout=compact) |  
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsimAliMurtaza&theme=white&hide_border=true) | ![GitHub Streak](https://streak-stats.demolab.com/?user=AsimAliMurtaza&theme=white&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsimAliMurtaza&theme=white&hide_border=true&layout=compact) |  
 
 ---
