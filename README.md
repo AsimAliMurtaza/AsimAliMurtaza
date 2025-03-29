@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Asim</h1>  
+<h1 align="center">Hi, I'm Asim</h1>  
 <h3 align="center">A fullstack developer and an ai enthusiast from Pakistan 🇵🇰 </h3> 
 
 
@@ -12,10 +12,9 @@
 
 ## Tech Stack  
 
-    Languages: TypeScript, Python, JavaScript, C#  
+    Languages: TypeScript, Python, JavaScript, C#, C++ 
     Web: Next.js, React, Node.js, Express  
     Databases: MongoDB, PostgreSQL, Firebase  
-    Cloud & DevOps: AWS, Docker, CI/CD  
 
 ---
 
