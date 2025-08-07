@@ -1,35 +1,21 @@
-<h1 align="center">Hi, I'm Asim Ali Murtaza 👋</h1>
-<h3 align="center">A Fullstack Developer | AWS Cloud Enthusiast | AI/ML Practitioner from Pakistan 🇵🇰</h3>
-
----
-
-<p align="center">
-  I specialize in building scalable web applications, primarily with Next.js and MERN stacks. My expertise extends to cloud computing, with a keen focus on AWS, and I possess a solid understanding of Artificial Intelligence and Machine Learning principles. I am passionate about solving complex problems and continuously expanding my technical horizons.
+<p align="left" justify-contents="center">
+  Hi, I'm Asim Ali Murtaza, a <a href="https://www.linkedin.com/in/asimalimurtaza">Software Engineer</a> based in Pakistan.
+  I specialize in building full-stack applications with <a href="https://nextjs.org"><strong>Next.js</strong></a>, focusing on scalability, performance, and user experience.<br>
+  Check out my primary <a href="https://asimalimurtaza.vercel.app">portfolio</a> or <a href="https://asimalimurtazav2.vercel.app">alternate portfolio</a> for a quick glance. You can connect with me on <a href="https://www.linkedin.com/in/asimalimurtaza">LinkedIn</a>, maybe on <a href="https://www.x.com/asimalimurtaza">X</a> as well or you can <a href="mailto:mo.asim.murtaza@gmail.com">email</a> me too. 
 </p>
 
----
-## Connect with Me:
-    - Linkedin : @asimalimurtaza (https://www.linkedin.com/in/asimalimurtaza/)
-    - X : @asimalimurtaza (https://x.com/asimalimurtaza)
-    - Reddit: @asimalimurtaza (https://reddit.com/u/asimalimurtaza)
-    - Connect with me at mo.asim.murtaza@gmail.com
-
-## Tech Stack  
-
-    Languages: TypeScript, Python, JavaScript, C#, C++ 
+<p align="left" justify-contents="center">
+  My expertise includes the following just for a quick look:
+  
+    Languages: TypeScript, Python, C#, C++ 
     Frontend: Next.js, React, Chakra-UI, MUI, Tailwind
-    Backend: Express, Node.js, FastAPI, Django
-    Databases: MongoDB, PostgreSQL, MS SQL Server, Firebase, Supabase
-    AI/ML: Tensorflow, Scikit-Learn, Numpy, Pandas, Matplotlib
-    Others: Vercel, Git, AWS
+    Backend: Express, Node.js, FastAPI, .NET
+    Databases: MongoDB, PostgreSQL, MS SQL Server, Firebase
+    Cloud & CI/CD: Vercel, Git, AWS
+</p>
+    
 
----
-
-## GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=AsimAliMurtaza&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AsimAliMurtaza&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AsimAliMurtaza&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=AsimAliMurtaza&icon=2&color=0)](https://visitcount.itsvg.in)
+## profile stats  
+![](https://github-readme-stats.vercel.app/api?username=AsimAliMurtaza&theme=merko&hide_border=true&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=AsimAliMurtaza&theme=merko&hide_border=true)
 
