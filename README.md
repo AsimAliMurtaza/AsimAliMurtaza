@@ -14,9 +14,4 @@
     Cloud & CI/CD: Vercel, Git, AWS
     AI: LangChain, LangGraph, Groq
 </p>
-    
-
-## profile stats  
-![](https://github-readme-stats.vercel.app/api?username=AsimAliMurtaza&theme=merko&hide_border=true&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=AsimAliMurtaza&theme=merko&hide_border=true)
-
+  
