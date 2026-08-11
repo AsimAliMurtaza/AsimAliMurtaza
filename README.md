@@ -31,7 +31,7 @@ AI-assisted project collaboration platform for modern software teams.
 
 ---
 
-### [Prismia](https://github.com/AsimAliMurtaza/prismia-backend)
+### [Prismia](https://github.com/AsimAliMurtaza/prismia)
 
 AI-powered recruitment backend with agentic workflows and semantic matching.
 
