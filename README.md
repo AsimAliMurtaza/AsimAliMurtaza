@@ -23,7 +23,7 @@ I enjoy working across the stack—from system architecture and databases to API
 
 ## Featured Projects
 
-### [ZenFlow](https://github.com/AsimAliMurtaza/zenflow)
+### [ZenFlow](https://github.com/asimalimurtaza/zenflow)
 
 AI-assisted project collaboration platform for modern software teams.
 
@@ -31,7 +31,7 @@ AI-assisted project collaboration platform for modern software teams.
 
 ---
 
-### [Prismia](https://github.com/AsimAliMurtaza/prismia)
+### [Prismia](https://github.com/asimalimurtaza/prismia)
 
 AI-powered recruitment backend with agentic workflows and semantic matching.
 
@@ -39,15 +39,7 @@ AI-powered recruitment backend with agentic workflows and semantic matching.
 
 ---
 
-### [Multi-Tenant Platform](https://github.com/AsimAliMurtaza/multitenant-platform)
-
-Production-oriented architecture for scalable multi-tenant SaaS applications.
-
-**Next.js · TypeScript · Express · MongoDB**
-
----
-
-### [Cognivia](https://github.com/AsimAliMurtaza/cognivia)
+### [Cognivia](https://github.com/asimalimurtaza/cognivia)
 
 AI-powered learning platform for students, teachers, and intelligent education.
 
@@ -55,7 +47,7 @@ AI-powered learning platform for students, teachers, and intelligent education.
 
 ---
 
-### [Simple Components UI](https://github.com/AsimAliMurtaza/simple-components-ui)
+### [Simple Components UI](https://github.com/asimalimurtaza/simple-components-ui)
 
 Reusable TypeScript UI components for modern React and Next.js applications.
 
@@ -63,11 +55,19 @@ Reusable TypeScript UI components for modern React and Next.js applications.
 
 ---
 
-### [MarkSync](https://github.com/AsimAliMurtaza/marksync)
+### [MarkSync](https://github.com/asimalimurtaza/marksync)
 
 Full-stack attendance platform with location-aware workflows.
 
 **React · TypeScript · Backend APIs**
+
+---
+
+### [Multi-Tenant Platform](https://github.com/asimalimurtaza/multitenant-platform)
+
+Production-oriented architecture for scalable multi-tenant SaaS applications.
+
+**Next.js · TypeScript · Express · MongoDB**
 
 ---
 
@@ -122,4 +122,4 @@ I enjoy turning ideas into complete systems, from architecture and data models t
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/asimalimurtaza/) · [Portfolio](https://asimalimurtaza.lovable.app/) · [GitHub](https://github.com/AsimAliMurtaza/)
+[LinkedIn](https://www.linkedin.com/in/asimalimurtaza) · [Portfolio](https://asimalimurtaza.lovable.app) · [GitHub](https://github.com/asimalimurtaza)
