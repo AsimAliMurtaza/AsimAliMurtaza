@@ -14,7 +14,7 @@ My current focus is on **LLM applications, AI agents, SaaS platforms, and modern
 * Developing agentic systems with **LangGraph and LangChain**
 * Building full-stack products with **TypeScript, Next.js, React, and Node.js**
 * Developing backend systems with **Python, FastAPI, and Express**
-* Working with **PostgreSQL, MongoDB, and cloud services**
+* Working with **PostgreSQL, Supabase, MongoDB, and cloud services**
 * Exploring scalable **SaaS and multi-tenant architectures**
 
 I enjoy working across the stack—from system architecture and databases to APIs, user interfaces, and AI workflows.
@@ -55,11 +55,11 @@ Reusable TypeScript UI components for modern React and Next.js applications.
 
 ---
 
-### [MarkSync](https://github.com/asimalimurtaza/marksync)
+### [Zeloria](https://github.com/asimalimurtaza/zeloria)
 
-Full-stack attendance platform with location-aware workflows.
+Supabase-backed social media clone app with realtime notifications, stories, posting and secure auth.
 
-**React · TypeScript · Backend APIs**
+**Supabase · Next.js · Serverless**
 
 ---
 
@@ -83,7 +83,7 @@ Next.js · React · Tailwind CSS · Chakra UI · Material UI
 
 **Backend**
 
-Node.js · Express · FastAPI · ASP.NET
+Node.js · Supabase · FastAPI · ASP.NET
 
 **AI / ML**
 
